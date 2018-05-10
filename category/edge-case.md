@@ -14,6 +14,19 @@ title: My Category
 ---
 ```
 
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+
+```md
+---
+layout: category
+title: My Category
+---
+```
+
 Or ...
 
 ```md
